@@ -1,0 +1,6 @@
+@maratonAPI_HostAddress = http://localhost:5030
+
+GET {{maratonAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
